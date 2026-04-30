@@ -21,4 +21,4 @@ npm install
 npm run dev
 
 ## Live Link
-[Add Vercel link after deploy]
+movie-discovery-analytics-dashboard.vercel.app
