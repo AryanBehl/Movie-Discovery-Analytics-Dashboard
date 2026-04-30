@@ -23,6 +23,7 @@ function App() {
       </button>
 
       <h1>🎬 Movie Discovery Dashboard</h1>
+      <p className="subtitle">Discover, filter, and track your favorite movies</p>
 
       {showWatchlist ? (
         <Watchlist />
